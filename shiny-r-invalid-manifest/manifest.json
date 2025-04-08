@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "locale": "C",
+  "platform": "4.4.1",
+  "metadata": {
+    "appmode": "shiny",
+    "primary_rmd": null,
+    "primary_html": null,
+    "content_category": null,
+    "has_parameters": false
+  }
